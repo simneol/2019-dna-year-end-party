@@ -1,0 +1,16 @@
+name: lint
+on:
+  - pull_request
+jobs:
+  lint:
+    runs-on: ubuntu-18.04
+    steps:
+    - uses: actions/checkout@v1
+    - name: Build image
+      env:
+        IMAGE_TAG: ${{ github.sha }}
+      run: docker build . -t devholic/2019-dna-year-end-party:${IMAGE_TAG}
+    - name: Run lint
+      env:
+        IMAGE_TAG: ${{ github.sha }}
+      run: docker run devholic/2019-dna-year-end-party:${IMAGE_TAG}
