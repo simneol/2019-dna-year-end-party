@@ -1,0 +1,15 @@
+{
+  "name": "2019-dna-year-end-party",
+  "version": "1.0.0",
+  "scripts": {
+    "format": "npx markdownlint README.md --fix",
+    "lint": "npx markdownlint README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devholic/2019-dna-year-end-party.git"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "0.19.0"
+  }
+}
