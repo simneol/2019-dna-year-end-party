@@ -28,7 +28,7 @@
   - [복순도가](https://smartstore.naver.com/boksoondoga/products/2070712668): 막걸리
   - 빙탄복
 - 안주
-  - 소금집: 나쵸
+  - [소금집](https://www.salthousekorea.com/)
 
 ### 즐길거리
 
