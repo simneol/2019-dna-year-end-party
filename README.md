@@ -27,6 +27,8 @@
 - 술
   - [복순도가](https://smartstore.naver.com/boksoondoga/products/2070712668): 막걸리
   - 빙탄복
+  - 사워 맥주 (종류 미정)
+  - 진로 (for 🍋Soju)
 - 안주
   - [소금집](https://www.salthousekorea.com/)
 
